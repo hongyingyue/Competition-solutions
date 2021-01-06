@@ -20,7 +20,12 @@ If you are attending some competitions, it;s highly recommended review the top s
 &nbsp;
 ## Computer Vision
 ### classification
-[]()
+[Humpback-Whale-Identification](https://www.kaggle.com/c/humpback-whale-identification/overview)
+| rank  | code | blog    | 
+|-------|:---:|-----------|
+| 1st  | [Humpback-Whale-Identification-1st-](https://github.com/earhian/Humpback-Whale-Identification-1st-) | [discussion](https://www.kaggle.com/c/humpback-whale-identification/discussion/82366)    |
+
+&nbsp;
 
 [Google Landmark Recognition 2020](https://www.kaggle.com/c/landmark-recognition-2020/discussion/188299)
 | rank  | code | blog    |
@@ -65,6 +70,4 @@ Data size: train:250, test:200
 
 &nbsp;
 ## Multi modal
-
-
 
