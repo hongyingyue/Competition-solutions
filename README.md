@@ -59,23 +59,48 @@ Data size: 3.68GB
 &nbsp;
 
 [Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track/overview) <br>
-Data size: 9.74GB
-
+Data size: 9.74GB <br>
 
 
 &nbsp;
 
 [智能盘点—钢筋数量AI识别](https://www.datafountain.cn/competitions/332) <br>
-Data size: train:250, test:200
+Data size: train:250, test:200 <br>
+- [方案介绍-讨论区](https://www.datafountain.cn/competitions/332/discuss)
+- [spytensor/detect_steel_bar](https://github.com/spytensor/detect_steel_bar)
 
-[天池-宫颈癌风险智能检测诊断]()
+----
+[天池-宫颈癌风险智能检测诊断](https://tianchi.aliyun.com/competition/entrance/231757/information)
 
-[天池-布匹疵点智能识别赛道]()
+----
+
+[雪浪制造AI挑战赛—布匹良品检测](https://tianchi.aliyun.com/competition/entrance/231666/introduction)
+
+----
+
+[天池-布匹疵点智能识别赛道](https://tianchi.aliyun.com/competition/entrance/231748/information)
+
+----
+
+[天池-铝型材表面瑕疵识别](https://tianchi.aliyun.com/competition/entrance/231682/introduction)
+
+----
 
 [Kesci-水下目标检测算法赛]()
 
+
 &nbsp;
 ### segmentation
+[TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge)
+| rank  | code | blog    | 
+|-------|:---:|-----------|
+| 1st  | [code](https://github.com/ybabakhin/kaggle_salt_bes_phalanx) | [discussion](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69291)  |
+
+
+&nbsp;
+
+---
+
 [iMaterialist (Fashion) 2019 at FGVC6 (实例分割)](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/overview)
 | rank  | code | blog    | 
 |-------|:---:|-----------|
