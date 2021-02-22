@@ -4,22 +4,23 @@ If you are attending some competitions, it‘s highly recommended to review the 
 你可以关注我的微信公众号：YueTan
 
 
-## Data Mining
+## 1. Data Mining
 [elo-merchant-category-recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation/overview)
 
 [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/overview)
 
 &nbsp;
-## Time Series
+## 2. Time Series
 [web-traffic]()
 
 [recruit-restaurant-visitor-forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 
 [favorita-grocery-sales-forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
+类型：
 
 &nbsp;
-## Computer Vision
-### classification
+## 3. Computer Vision
+### 3.1 classification
 [Humpback-Whale-Identification](https://www.kaggle.com/c/humpback-whale-identification/overview)
 | rank  | code | blog    | 
 |-------|:---:|-----------|
@@ -34,7 +35,7 @@ If you are attending some competitions, it‘s highly recommended to review the 
 | 2nd | [instance_level_recognition](https://github.com/bestfitting/instance_level_recognition) | [discussion](https://www.kaggle.com/c/landmark-recognition-2020/discussion/188299)    |
 ****
 &nbsp;
-### object detection
+### 3.2 object detection
 
 [Global Wheat Detection 小麦检测](https://www.kaggle.com/c/global-wheat-detection/overview) <br>
 Data size: 600MB
@@ -90,7 +91,7 @@ Data size: train:250, test:200 <br>
 
 
 &nbsp;
-### segmentation
+### 3.3 segmentation
 [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge)
 | rank  | code | blog    | 
 |-------|:---:|-----------|
@@ -107,7 +108,7 @@ Data size: train:250, test:200 <br>
 | 1st  | [code](https://github.com/amirassov/kaggle-imaterialist) | [discussion](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/discussion/95247)    |
 
 &nbsp;
-### complicated task
+### 3.4 complicated task
 
 &nbsp;
 ### ocr
@@ -115,8 +116,24 @@ Data size: train:250, test:200 <br>
 [CCF-基于OCR身份证要素提取]()
 
 &nbsp;
-## Natural language processing
+## 4. Natural language processing
+
+### 4.1 text classification
+
+[CCF BDCI 2019 互联网新闻情感分析](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)
+
+### 4.2 NER
+
+### 4.3 MRC
+
+https://github.com/thuwyh/Tweet-Sentiment-Extraction
 
 &nbsp;
-## Multi modal
+## 5. Multi modal
+[]()
 
+&nbsp;
+
+[petfinder-adoption-prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)
+
+- [final-small](https://link.zhihu.com/?target=https%3A//www.kaggle.com/wuyhbb/final-small)
