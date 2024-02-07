@@ -7,12 +7,11 @@
 
 本仓库汇集了众多算法比赛方案与技巧，参加比赛或学习一个方向时，建议浏览并实践三层境界。<br>
 
+- 以复盘学习角度，给出推荐程度★★★☆☆，取决于比赛质量、赛中赛后开源数等
 - 阅读在线书籍 [https://hongyingyue.gitbook.io/competitions-solution/](https://hongyingyue.gitbook.io/competitions-solution/)
 
+
 ## 📗 领域
-
-- 比赛推荐程度★★★☆☆取决于比赛水平、赛后开源数量等
-
 
 | Chapter          | Content               | Tricks                     |
 |------------------|-----------------------|----------------------------|
